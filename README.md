@@ -1,18 +1,28 @@
 # RDP Windows Server 2019 ✨
 
-**Windows Server 2019 with 2cpu-7gb Ram FREE with Github with RDP Access (ngrok US)**
+**RDP Windows Dengan Spesifikasi Ram 7 GB, Di Temani 2 Core Yang Sangat Bermanfaat Untuk Ngeb0t Dan Yang Mengejar Jam Tayang**
 
-Repo link: https://github.com/charan2004153/RDP_Windows2019
+Repo link: https://github.com/davidpangrib001/Erdepe
 
 
-+ Click Fork in the right corner of the screen to save it to your Github.
-+ Visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN
-+ In Github go to **⚙ Settings> Secrets> New repository secret**
-+ In Name: enter **NGROK_AUTH_TOKEN**
-+ In Value: visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste Your Authtoken into
-+ Press **Add secret**
-+ Go to **Action> RDP_2019> Run workflow**
-+ Reload the page and press **RDP_2019> build**
-+ Press the down arrow on Connect To Your RPD to get IP, User, Password.
++ Klik Fork di sudut kanan layar untuk menyimpannya ke Github Anda.
++ Kunjungi https://dashboard.ngrok.com untuk mendapatkan NGROK_AUTH_TOKEN
++ Di Github Pergi Ke **⚙ Settings> Secrets> New repository secret**
++ Dalam Nama: masukkan **NGROK_AUTH_TOKEN**
++ Dalam Value: kunjungi https://dashboard.ngrok.com/auth/your-authtoken Salin dan Tempel Authtoken Anda ke dalam
++ Klik Tombol **Add secret**
++ Pergi Ke **Action> RDP_2019> Run workflow**
++ Muat ulang halaman dan tekan **RDP_2019> build**
++ Scroll Ke Bawah Dan Tunggu Hasilnya Untuk Hubungkan Ke RDP Anda untuk mendapatkan IP, Pengguna, Kata Sandi.
++ Ke Play Store Search **RD Client** Dan Install Aplikasinya
++ Masuk Ke Aplikasi Klik Gambar '+' Di Pojok Kanan Atas Dan Pilih Add PC
++ Di Bagian Name PC Isi Yang IP Dari GitHub Contoh : 0.tcp.app.ngrok xxxxxx
++ Di Bagian User Account Isi Yang User Dan Pass Dari GitHub Contoh:
++ User : Administrator
++ Pass : Charan123
++ Kalian Save
++ Kalian Klik PC Yang Kalian Save
++ Jika Ada Pemberitahuan Sertifikat Kalian Iya in aja, Jangan Di Cancel
++ Done
 
 
